@@ -1,0 +1,37 @@
+{
+    "products":[
+             {
+                "id":1,
+                "name": "Iphone 12",
+                "desc": "apple product ",
+                "price": 999,
+                "color": "#33505a",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqNyQMxdBeLfbr5EAZpO9eJ8T_7H0goec_KbBf4I1atvcpbQFcWieLZywmzdt_Cukh1M&usqp=CAU"
+             },
+             {
+                "id":2,
+                "name": "Iphone 11",
+                "desc": "apple product iphone11 ",
+                "price": 799,
+                "color": "#33505a",
+                "image":"https://images-eu.ssl-images-amazon.com/images/I/41R0o8pGJjL._SY445_SX342_QL70_FMwebp_.jpg"
+             },
+             {
+                "id":3,
+                "name": "airpods",
+                "desc": "apple product airpods ",
+                "price": 199,
+                "color": "#33505a",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA3wx2sZrlvTJpsvX_cBBBNlhPSIi590HOuQ&usqp=CAU"
+             },
+             {
+                "id":4,
+                "name": "ipad",
+                "desc": "apple product ipad ",
+                "price": 1199,
+                "color": "#33505a",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRub5v_CPczVa3FH-zxkiPqwozEQXxEX8ptDQ&usqp=CAU"
+             }
+
+    ]
+}
